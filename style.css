@@ -1,0 +1,15 @@
+/*
+Theme Name: FirstTheme Child Theme
+Theme URI: 
+Author: Shaaban Fadil
+Author URI: https://wordpress.org/
+Description: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Text Domain: firsttheme
+License: GNU General Public License v2 or later
+
+*/
+
+/* import default parent styles */
+@import url("../child-firsttheme/");
+
+/* add child theme styles below */
